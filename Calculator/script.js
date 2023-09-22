@@ -169,3 +169,8 @@ equal.addEventListener("click",()=>
 {
     inp.value=result;
 })
+
+document.addEventListener("keydown",(e)=>{
+    if(e.key==="Enter")
+    inp.value=result;
+})
