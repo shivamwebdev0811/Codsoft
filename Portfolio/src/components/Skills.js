@@ -50,16 +50,16 @@ const Skills = () => {
                 </div>
                 
                 <div className='grid grid-cols-3 grid-rows-3 grid-gap-[10px] lg:w-[50%] gap-y-4 mx-auto w-[80%]'>
-                    <AiFillHtml5 fontSize={50} fill='red' className='hover:scale-[1.1] transition-all duration-200'/>
-                    <BiLogoCss3 fontSize={50} fill='#2E80F2'  className='hover:scale-[1.1] transition-all duration-200'/>
-                    <BiLogoJavascript fontSize={50} fill='#BFC22B'  className='hover:scale-[1.1] transition-all duration-200'/>
-                    <BiLogoTailwindCss fontSize={50} fill='skyblue'  className='hover:scale-[1.1] transition-all duration-200'/>
-                    <BiLogoReact fontSize={50} fill='#2786A2'  className='hover:scale-[1.1] transition-all duration-200'/>
-                    <SiRedux fontSize={50} fill='#8427A2'  className='hover:scale-[1.1] transition-all duration-200'/>
-                    <BsGit fontSize={50} fill='#F2862E'  className='hover:scale-[1.1] transition-all duration-200'/>
-                    <AiFillGithub fontSize={50}  className='hover:scale-[1.1] transition-all duration-200'/>
-                    <FaNodeJs fontSize={50} fill='#71C431' className='hover:scale-[1.1] transition-all duration-200'/>
-                    <BiLogoMongodb fontSize={50} fill='#14770F' className='hover:scale-[1.1] transition-all duration-200'/>
+                    <AiFillHtml5 fontSize={70} fill='red' className='hover:scale-[1.1] transition-all duration-200'/>
+                    <BiLogoCss3 fontSize={70} fill='#2E80F2'  className='hover:scale-[1.1] transition-all duration-200'/>
+                    <BiLogoJavascript fontSize={70} fill='#BFC22B'  className='hover:scale-[1.1] transition-all duration-200'/>
+                    <BiLogoTailwindCss fontSize={70} fill='skyblue'  className='hover:scale-[1.1] transition-all duration-200'/>
+                    <BiLogoReact fontSize={70} fill='#2786A2'  className='hover:scale-[1.1] transition-all duration-200'/>
+                    <SiRedux fontSize={70} fill='#8427A2'  className='hover:scale-[1.1] transition-all duration-200'/>
+                    <BsGit fontSize={70} fill='#F2862E'  className='hover:scale-[1.1] transition-all duration-200'/>
+                    <AiFillGithub fontSize={70}  className='hover:scale-[1.1] transition-all duration-200'/>
+                    <FaNodeJs fontSize={70} fill='#71C431' className='hover:scale-[1.1] transition-all duration-200'/>
+                    <BiLogoMongodb fontSize={70} fill='#14770F' className='hover:scale-[1.1] transition-all duration-200'/>
                 </div>
 
             </div>
